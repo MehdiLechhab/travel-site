@@ -31,3 +31,8 @@
 .section-title--blue {
 	color: $mainBlue;
 }
+
+.section-title--less-margin {
+	margin-bottom: 1.3rem;
+	margin-top: 0;
+}
