@@ -36,10 +36,11 @@
 	width: 37%;
 }
 
-.row__medium-8--smaller {
-	width: 63%;
+.row__medium-8--smaller {/*	turned code below off because it wasnt helping
+*//*width: 63%;*/
+	
 }
---
+
 
 @mixin atLarge {
 
